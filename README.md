@@ -1,7 +1,6 @@
 ### Eai! Eu sou o Natan, atualmente estudante e universitário na área de TI
 
-- 🔭 Atualmente curso Ciência da Computação
-- 🌱 Estudando HTML5 e CSS3 / Javascript e nos tempos vagos um pouco de Python
+- 🔭 Estudando HTML5 e CSS3 / Javascript e nos tempos vagos um pouco de Python
 - 😄 Iniciante em desenvolvimento web
 
 
