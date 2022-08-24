@@ -2,7 +2,7 @@
 
 - 🔭 Estudando HTML5 e CSS3 / Javascript 
 - 😄 Iniciante em desenvolvimento web
-- 🌱 Nos tempos vagos, estudo Python
+- 🌱 No tempo vago, estudo Python
 
 
 <div align="center">
