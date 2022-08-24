@@ -16,7 +16,7 @@
   <img align="on" alt="natan-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="on" alt="natan-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="on" alt="natan-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="natan-pic" height="220" style="border-radius:80px;" src="https://cdn.discordapp.com/attachments/938574157438926878/1012123878505586838/natan_lindo.jpeg">
+  <img align="right" alt="natan-pic" height="220" style="border-radius:80px;" src="https://cdn.discordapp.com/attachments/938574157438926878/1012130639539097680/download20220803193954.png">
 </div>
 <div> 
   <a href="https://instagram.com/ntmachado_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
