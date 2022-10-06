@@ -1,4 +1,4 @@
-<img align="left" width="100%" alt="about" src=""/>
+<img align="left" width="100%" alt="about" src="https://user-images.githubusercontent.com/99294586/194186603-3c049ea7-a28e-4931-be80-62b042815026.png"/>
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Eai! Eu sou o Natan, atualmente universitário na área de TI
