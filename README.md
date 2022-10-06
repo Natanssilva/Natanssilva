@@ -9,7 +9,11 @@
 - 😄 Desenvolvimento web
 - 🌱 No tempo vago, estudo Python
 
-
+<br>
+<h2 align="center">
+<details>
+<summary>📈 Análises do Github</summary>
+<br>
 <div align="center">
   <a href="https://github.com/Natanssilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Natanssilva&show_icons=false&theme=material-palenight&include_all_commits=true&count_private=true"/>
