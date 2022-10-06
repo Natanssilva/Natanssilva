@@ -3,11 +3,10 @@
 
 <a href="https://www.instagram.com/natanpms/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/natan-porto-machado-da-silva-b1b817244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  <p align="center">
   <a href="https://github.com/Natanssilva/Natanssilva/files/9727146/Curriculo.2022.pdf">
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
-  </a>
+  </a> 
+  
   <a href="mailto:luk4xm4ci3l@gmail.com" alt="Gmail" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
   </a>
@@ -27,7 +26,7 @@
     <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" alt="line">
   </a>
   <img src="https://user-images.githubusercontent.com/86276393/177438405-e828976c-3773-4b4e-a3f3-dc888c759003.png" alt="discord">
-</p>
+
 <br><br><br><br>
 
 
