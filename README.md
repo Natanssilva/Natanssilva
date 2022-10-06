@@ -5,6 +5,7 @@
   <a href="https://www.linkedin.com/in/natan-porto-machado-da-silva-b1b817244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/Natanssilva/Natanssilva/files/9727146/Curriculo.2022.pdf">
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
+  <img src="https://user-images.githubusercontent.com/86276393/177438405-e828976c-3773-4b4e-a3f3-dc888c759003.png" alt="discord">
   </a> 
  </p>
  
@@ -23,7 +24,7 @@
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natanssilva&langs_count=8&theme=material-palenight&hide_border=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Natanssilva&show_icons=true&custom_title=Natanssilva's%20Github%20Stats&theme=material-palenight&hide_border=true">
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Natanssilva&theme=material-palenight&hide_border=true">
+
 </details>
 
 
