@@ -5,17 +5,17 @@
   <a href="https://www.linkedin.com/in/natan-porto-machado-da-silva-b1b817244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/Natanssilva/Natanssilva/files/9727146/Curriculo.2022.pdf">
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
-  <img src="https://user-images.githubusercontent.com/86276393/177438405-e828976c-3773-4b4e-a3f3-dc888c759003.png" alt="discord">
   </a> 
  </p>
- 
 
-<br><br><br><br>
-
-
-- 🔭 Estudando HTML5 e CSS3 / Javascript 
-- 😄 Desenvolvimento web
-- 🌱 No tempo vago, estudo Python
+<ul align="left">
+    <h2>Cursos Onlines💻 </h2>
+    <li>Amo estudar e aprender novas tecnologias .</li>
+    <li>Estudo HTML5|CSS3 | Javascript no <a href="https://www.cursoemvideo.com/" target="_blank" rel="next" >Curso em Vídeo</a> 
+    <li>Ainda adquiro mais conhecimentos de Javascript no Back-End com Node.Js e Express no <a href="https://cursos.sesisenai.org.br/detalhes/programacao-basica-em-back-end/34150/76986" target="_blank" rel="next" >SENAI</a> 
+    <li>Também estou  estudando C#|.NET na <a href="https://www.dio.me/" target="_blank" rel= "next" > Digital Innovation One(DIO)</a>
+    <li> Desenvolvedor <strong>Front-End</strong> e com interesse no <strong>Back-End</strong>, diariamente estudando e <strong>desenvolvendo projetos </strong>.</li>
+</ul>
 
 <br>
 <h2 align="center">
