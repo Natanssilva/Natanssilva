@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/natan-porto-machado-da-silva-b1b817244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   <p align="center">
-  <a href="">
+  <a href="https://github.com/Natanssilva/Natanssilva/files/9727146/Curriculo.2022.pdf">
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
   </a>
   <a href="mailto:luk4xm4ci3l@gmail.com" alt="Gmail" target="_blank">
