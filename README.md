@@ -14,8 +14,9 @@
 <details>
 <summary>📈 Análises do Github</summary>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natanssilva&layout=compact&langs_count=7&theme=material-palenight">
-<img src="https://github-readme-stats.vercel.app/api?username=Natanssilva&show_icons=false&theme=material-palenight&include_all_commits=true&count_private=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natanssilva&langs_count=8&theme=material-palenight&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Natanssilva&show_icons=true&custom_title=Natanssilva's%20Github%20Stats&theme=material-palenight&hide_border=true">
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Natanssilva&theme=material-palenight&hide_border=true">
 </details>
 
 
