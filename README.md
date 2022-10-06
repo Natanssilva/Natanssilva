@@ -1,5 +1,5 @@
 <img align="left" width="100%" alt="about" src="https://user-images.githubusercontent.com/99294586/194187919-bee66aff-7238-4cb9-9cc3-106ba5c07c08.png"/>
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 <a href="https://instagram.com/ntmachado_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:natanssilva10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
