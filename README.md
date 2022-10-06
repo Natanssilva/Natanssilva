@@ -7,6 +7,7 @@
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
   </a> 
  </p>
+  
 
 <ul align="left">
     <h2>Cursos Onlines💻 </h2>
