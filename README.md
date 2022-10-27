@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/natan-porto-machado-da-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="external"></a> 
-  <a href="https://github.com/Natanssilva/Natanssilva/files/9727146/Curriculo.2022.pdf">
+  <a href="https://github.com/Natanssilva/Natanssilva/files/9881571/Curriculo.pt-br.pdf">
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
   </a> 
  </p>
