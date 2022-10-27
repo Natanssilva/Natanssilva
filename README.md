@@ -25,8 +25,10 @@
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natanssilva&langs_count=8&theme=material-palenight&hide_border=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Natanssilva&show_icons=true&custom_title=Natanssilva's%20Github%20Stats&theme=material-palenight&hide_border=true">
+ 
+</details>
   
-  (Snake Animation)
+ <!--(Snake Animation)
   
   name: Generate Datas
 
@@ -52,7 +54,7 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} --!>
 
 </details>
 
