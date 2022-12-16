@@ -27,7 +27,7 @@
  
   <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
   <br>
-<table align="right" height="267px">
+<table align="center" height="285px">
   
   <tr>
     <td align="center">
@@ -62,14 +62,7 @@
         </b>
       </sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br>
-      <sub>
-        <b>
-          <pre>Terminal</pre>
-        </b>
-      </sub>
-    </td>
+    
   </tr>
   <tr>
     <td align="center">
@@ -87,12 +80,10 @@
           <pre>React JS</pre>
         </b>
       </sub>
-    </td>
+      
   </tr>
 </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-
+<br>
   
  </details>
  
