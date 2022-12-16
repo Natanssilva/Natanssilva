@@ -24,8 +24,9 @@
 <br>
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natanssilva&langs_count=8&theme=material-palenight&hide_border=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Natanssilva&show_icons=true&custom_title=Natanssilva's%20Github%20Stats&theme=material-palenight&hide_border=true">
+<br>
  
-  <h2 align="center">🛠️ &ensp;TECNOLOGIAS</h2>
+  <h2 align="center">🛠️ TECNOLOGIAS</h2>
   <br>
 <table align="center" height="285px">
   
