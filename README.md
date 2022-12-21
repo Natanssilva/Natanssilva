@@ -12,8 +12,8 @@
 <ul align="left">
     <h2>Cursos Onlines💻 </h2>
     <li>Amo estudar e aprender novas tecnologias .</li>
-    <li>Estudo HTML5|CSS3 | Javascript no <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo</a> 
-    <li>Também estou estudo Javascript, Typescript e React na <a href="https://www.dio.me/" target="_blank" > Digital Innovation One(DIO)</a>
+    <li>Estudei HTML5|CSS3 | Javascript no <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo</a> 
+    <li>Também estudei Javascript na <a href="https://www.dio.me/" target="_blank" > Digital Innovation One(DIO)</a>
     <li> Desenvolvedor <strong>Front-End</strong> e com interesse no <strong>Back-End</strong>, diariamente estudando e <strong>desenvolvendo projetos </strong>.</li>
 </ul>
 
