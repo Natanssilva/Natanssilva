@@ -9,14 +9,6 @@
  </p>
   
 
-<ul align="left">
-    <h2>Cursos Onlines💻 </h2>
-    <li>Amo estudar e aprender novas tecnologias .</li>
-    <li>Estudei HTML5|CSS3 | Javascript no <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo</a> 
-    <li>Também estudei Javascript na <a href="https://www.dio.me/" target="_blank" > Digital Innovation One(DIO)</a>
-    <li> Desenvolvedor <strong>Front-End</strong> e com interesse no <strong>Back-End</strong>, diariamente estudando e <strong>desenvolvendo projetos </strong>.</li>
-</ul>
-
 <br>
 <h2 align="center">
 <details>
@@ -26,62 +18,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Natanssilva&show_icons=true&custom_title=Natanssilva's%20Github%20Stats&theme=material-palenight&hide_border=true">
 <br>
  
-  <br>
-  <h2 align="center">🛠️ TECNOLOGIAS</h2>
-  <br>
-<table align="center" height="285px">
-  
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br>
-      <sub>
-        <b>
-          <pre>Javascript</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
-      <sub>
-        <b>
-          <pre>CSS3</pre>
-        </b>
-      </sub>
-    </td>
-        <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
-      <sub>
-        <b>
-          <pre>HTML5</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>Git</pre>
-        </b>
-      </sub>
-    </td>
-    
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br>
-      <sub>
-        <b>
-          <pre>Typescript</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon" width="80px" alt="React JS"/><br>
-      <sub>
-        <b>
-          <pre>React JS</pre>
-        </b>
-      </sub>
+ 
       
   </tr>
 </table>
@@ -89,7 +26,6 @@
   
  </details>
  
- ![Snake animation](https://github.com/Natanssilva/Natanssilva/blob/output/github-contribution-grid-snake.svg)
 
 
 
