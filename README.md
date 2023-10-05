@@ -3,6 +3,8 @@
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/natan-porto-machado-da-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="external"></a> 
+ 
+  <br>
   <a href="https://github.com/Natanssilva/Natanssilva/files/12471056/curriculo-Natan.pdf">
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
   </a> 
