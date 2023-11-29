@@ -1,40 +1,46 @@
-<img align="left" width="100%" alt="about" src="https://user-images.githubusercontent.com/99294586/194187919-bee66aff-7238-4cb9-9cc3-106ba5c07c08.png"/>
-<br><br><br><br><br><br><br>
+# Natan Silva
 
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/natan-porto-machado-da-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="external"></a> 
- 
-  <br>
-  <a href="https://github.com/Natanssilva/Natanssilva/files/12471056/curriculo-Natan.pdf">
-    <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
-  </a> 
-  
- </p>
-  
+<img src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" min-width="300px" max-width="300px" width="300px" align="right">
+<p align="left"> 
+    Saudações, eu sou um <strong>desenvolvedor web</strong> comprometido e apaixonado por tecnologia. 
+     <strong>Cursando Sistemas para Internet :)</strong> 
+</p>
 
-<br>
-<h2 align="center">
-<details>
-<summary>📈 Estatísticas do Github</summary>
-<br>
-<img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natanssilva&langs_count=8&theme=material-palenight&hide_border=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Natanssilva&show_icons=true&custom_title=Natanssilva's%20Github%20Stats&theme=material-palenight&hide_border=true">
-<br>
- 
- 
-      
-  </tr>
-</table>
-<br>
-  
- </details>
- 
+<p align="left">
+  🕑 Stack atual: <strong>PHP, Javascript e MySQL </strong>
+  | Frameworks : <strong>TailwindCSS, Bootstrap e  Jqueary </strong>
+</p>
 
+<p align="left">
+ <strong>Lugares que você pode me encontrar :<strong>
+</p>
 
+<p align="left">
+<a href="mailto:natanssilva10@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-gray?style=flat-square&labelColor=white&logo=gmail&logoColor=gray&link=mailto:natanssilva10@gmail.com" />
+</a>
+<a href="https://www.linkedin.com/in/natan-porto-machado-da-silva/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natan-porto-machado-da-silva/"/>
+</a>
 
+ <details>
+    <summary>Ferramentas</summary>
+    
+  ![Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
+  ![Postman](https://img.shields.io/badge/postman-100000?style=for-the-badge&logo=postman)
+  </details>
+  
+# My Status
+<div>
+  <table style="margin: 0 auto;" align="center">
+    <tr>
+      <td>
+        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=Natanssilva&theme=react&hide_border=false"/>
+      </td>
+      <td>
+        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natanssilva&layout=compact&theme=react&count_private=true"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-
-  
-  
-  
-  
