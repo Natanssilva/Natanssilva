@@ -7,8 +7,8 @@
 </p>
 
 <p align="left">
-  🕑 Stack atual: <strong>PHP, Javascript e MySQL </strong>
-  | Frameworks : <strong>TailwindCSS, Bootstrap e  Jqueary </strong>
+  🕑 Stack atual: <strong>PHP, Javascript, Typescript e MySQL </strong>
+  | Frameworks : <strong>React.JS, TailwindCSS, Bootstrap,JQuery </strong>
 </p>
 
 <p align="left">
