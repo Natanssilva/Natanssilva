@@ -8,7 +8,7 @@
 
 <p align="left">
   🕑 Stack atual: <strong>PHP, Javascript e MySQL </strong>
-  | Frameworks : <strong>Vue.JS, Laravel, TailwindCSS, Bootstrap, JQuery </strong>
+  | Frameworks : <strong>Next.JS, Laravel, TailwindCSS, Bootstrap, JQuery </strong>
 </p>
 
 <p align="left">
